@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "d38eda683cabc12f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f59fb122407f88d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f907952d31e9aea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Inbox/PrivEsc-Exploiting-Windows-Kernel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b76fb8be59b9ecef",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c8999bd9186a252",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1754f155dec90a9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8dc75ce573994efe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1fa36f630083fb5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5026054382324
+  },
+  "right": {
+    "id": "0d6987037887847f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6246f727a5ed2a66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac3468b867741e4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 Inbox/PrivEsc-Exploiting-Windows-Kernel.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "691d9c0b91430dd7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000 Inbox/PrivEsc-Exploiting-Windows-Kernel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20252556748304d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7d1314642353fc1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000 Inbox/PrivEsc-Exploiting-Windows-Kernel.md"
+              }
+            }
+          },
+          {
+            "id": "1ba192d2c6af80aa",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8f907952d31e9aea",
+  "lastOpenFiles": [
+    "README.md",
+    "000 Inbox/PrivEsc-UAC-Bypass.md",
+    "000 Inbox/atomic-note.md",
+    "000 Inbox/PrivEsc-Exploiting-Windows-Kernel.md",
+    "000 Inbox/Exploitation-Windows-Kernel.md",
+    "100 Reference Notes/Exploiting-SMB-with-PsExec.md",
+    "100 Reference Notes/Searching-for-NSE-scripts.md",
+    "100 Reference Notes/Exploiting-WinRM.md",
+    "100 Reference Notes/Exploiting-Windows-MS17-010-EternalBlue-SMB.md",
+    "000 Inbox/exploiting-WinRM.md",
+    "300 CTFs/startingpoint.md",
+    "300 CTFs",
+    "000 Inbox/Atomic Note.md",
+    "Templates/Atomic Note.md",
+    "000 Inbox/exploiting-Windows-MS17-010-EternalBlue.md",
+    "000 Inbox/copy-me.md",
+    "000 Inbox/exploiting-SMB-with-PsExec.md~",
+    "000 Inbox/20240318.md",
+    "Templates",
+    "Files",
+    "200 Critical TechWorks",
+    "100 Reference Notes",
+    "000 Inbox/firstmarkdown.md",
+    "000 Inbox"
+  ]
+}
